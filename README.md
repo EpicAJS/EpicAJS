@@ -1,4 +1,4 @@
-# Abhijay Salvi
+# Hi, I'm Abhijay Salvi 
 
 Building **Waresport** · Exploring Agentic AI · 🥋 2nd Dan Black Belt
 
@@ -7,8 +7,7 @@ Building **Waresport** · Exploring Agentic AI · 🥋 2nd Dan Black Belt
 ### What I'm up to
 
 - 🔭 Building [Waresport](https://github.com/EpicAJS) and experimenting with agentic AI
-- 🌱 Going deep on Linux and cloud infrastructure
-- 🤝 Open to collab on machine learning and computer vision projects
+- 🌱 Learning more on linux and cloud infrastructure and mobile apps
 - 💬 Talk to me about startups, robotics, or tech
 
 ---
@@ -16,13 +15,6 @@ Building **Waresport** · Exploring Agentic AI · 🥋 2nd Dan Black Belt
 ### Stack
 
 ![](https://skillicons.dev/icons?i=py,js,ts,react,nextjs,pytorch,tensorflow,opencv,aws,docker,linux,git&perline=12)
-
----
-
-### Stats
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=EpicAJS&show_icons=true&hide_border=true&theme=default&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EpicAJS&layout=compact&hide_border=true&theme=default"/>
 
 ---
 
